@@ -1,0 +1,34 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanssyriaceastern.css);
+@import url(http://fonts.googleapis.com/earlyaccess/notosanssyriacwestern.css);
+@import url(http://fonts.googleapis.com/earlyaccess/notosanssyriacestrangela.css);
+
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #0BB6D1;
+  font-family: 'Oxygen', sans-serif;
+  font-family: 'Noto Sans Syriac Eastern', 'Noto Sans Syriac Estrangela', sans-serif;
+ 
+  text-align:justify;	
+  text-justify:kashida;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-size: 200%;
+}
+.ES {
+ font-family: 'Noto Sans Syriac Eastern', 'Noto Sans Syriac Estrangela', sans-serif;
+ direction: rtl;
+}
+.WS {
+ font-family: 'Noto Sans Syriac Western', 'Noto Sans Syriac Estrangela', sans-serif;
+ direction: rtl;
+}
+.EST {
+ font-family: 'Noto Sans Syriac Estrangela', sans-serif;
+ direction: rtl;
+}
+
+.rtl {
+  text-align: right;
+  color: black;
+}
