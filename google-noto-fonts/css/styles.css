@@ -27,7 +27,11 @@ body {
  font-family: 'Noto Sans Syriac Estrangela', sans-serif;
  direction: rtl;
 }
-
+.sys {
+	FONT-FAMILY: 'Estrangelo Midyat', 'Noto Sans Syriac Estrangela', sans-serif;
+	direction: rtl;
+	font-size: 120%;
+}
 .rtl {
   text-align: right;
   color: black;
@@ -41,11 +45,6 @@ body {
 	padding-left: 10px;
 	padding-right: 10px;
 	
-}
-.sys {
-	FONT-FAMILY: 'Estrangelo Midyat';
-	direction: rtl;
-	font-size: 120%;
 }
 .PS {
 	font-size: 75%;
