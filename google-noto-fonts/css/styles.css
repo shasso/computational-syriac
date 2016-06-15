@@ -1,3 +1,4 @@
+/* minimal required imports */
 @import url(http://fonts.googleapis.com/earlyaccess/notosanssyriaceastern.css);
 @import url(http://fonts.googleapis.com/earlyaccess/notosanssyriacwestern.css);
 @import url(http://fonts.googleapis.com/earlyaccess/notosanssyriacestrangela.css);
@@ -10,11 +11,12 @@ body {
   font-family: 'Noto Sans Syriac Eastern', 'Noto Sans Syriac Estrangela', sans-serif;
  
   text-align:justify;	
-  text-justify:kashida;
+  text-justify:kashida;	/* for some reason, this does not work */
   margin-left: 15px;
   margin-right: 15px;
   font-size: 200%;
 }
+/* minimal 'font-family' CSS propert required */
 .ES {
  font-family: 'Noto Sans Syriac Eastern', 'Noto Sans Syriac Estrangela', sans-serif;
  direction: rtl;
@@ -41,7 +43,7 @@ body {
   color: black;
 }
 .row p {
-	border: 2px solid gold;
+	border: 2px solid orange;
 	padding-left: 10px;
 	padding-right: 10px;
 	
