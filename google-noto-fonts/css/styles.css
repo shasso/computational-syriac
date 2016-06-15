@@ -16,7 +16,7 @@ body {
   margin-right: 15px;
   font-size: 200%;
 }
-/* minimal 'font-family' CSS propert required */
+/* minimal 'font-family' CSS property required */
 .ES {
  font-family: 'Noto Sans Syriac Eastern', 'Noto Sans Syriac Estrangela', sans-serif;
  direction: rtl;
