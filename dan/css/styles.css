@@ -1,0 +1,50 @@
+/* minimal required imports that will serve as default*/
+@import url(http://fonts.googleapis.com/earlyaccess/notosanssyriaceastern.css);
+@import url(http://fonts.googleapis.com/earlyaccess/notosanssyriacwestern.css);
+@import url(http://fonts.googleapis.com/earlyaccess/notosanssyriacestrangela.css);
+@import url(http://shasso.github.io/sasfonts/earlyaccess/Assyrian-Estrangela-Dan-Regular.css);
+@import url(http://shasso.github.io/sasfonts/earlyaccess/Assyrian-Dan-Regular.css);
+
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #989898;
+  font-family: 'Oxygen', sans-serif; 
+  text-align:justify;	
+  text-justify:kashida;	/* for some reason, this does not work */
+  margin-left: 15px;
+  margin-right: 15px;
+
+}
+/* minimal 'font-family' CSS property required */
+.ES {
+ font-family: 'Assyrian-Dan-Regular', 'Noto Sans Syriac Estrangela';
+ direction: rtl;
+ font-size: 2em;
+}
+nt-size: 2em;
+}
+.EST {
+ font-family: 'Assyrian-Estrangela-Dan-Regular', 'Noto Sans Syriac Estrangela';
+ direction: rtl;
+ font-size: 2em;
+}
+.rtl {
+  text-align: right;
+  color: black;
+}
+.l2r {
+  text-align: left;
+  color: black;
+}
+.row p {
+	border: 2px solid orange;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+.PS {
+	font-size: 75%;
+	color: #fff;
+	font-style: italic;
+}
