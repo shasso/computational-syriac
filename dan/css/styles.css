@@ -7,8 +7,8 @@
 
 body {
   font-size: 16px;
-  color: #fff;
-  background-color: #989898;
+  color: black;
+  background-color: #f0e465;
   font-family: 'Oxygen', sans-serif; 
   text-align:justify;	
   text-justify:kashida;	/* for some reason, this does not work */
@@ -25,7 +25,7 @@ body {
 .estrangela {
  font-family: 'Assyrian Estrangela', 'Noto Sans Syriac Estrangela';
  direction: rtl;
- font-size: 2em;
+ font-size: 2.5em;
 }
 .rtl {
   text-align: right;
@@ -45,4 +45,9 @@ body {
 	font-size: 75%;
 	color: #fff;
 	font-style: italic;
+}
+
+.title_header {
+	font-size: 3em;
+	color: red;
 }
