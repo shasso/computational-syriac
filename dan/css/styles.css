@@ -11,7 +11,7 @@ body {
   background-color: white;
   font-family: 'Oxygen', sans-serif; 
   text-align:justify;	
-  text-justify: distribute;	
+  text-justify: inter-word;	
   margin-left: 15px;
   margin-right: 15px;
 
