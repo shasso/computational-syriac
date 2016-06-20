@@ -2,7 +2,7 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosanssyriaceastern.css);
 @import url(http://fonts.googleapis.com/earlyaccess/notosanssyriacwestern.css);
 @import url(http://fonts.googleapis.com/earlyaccess/notosanssyriacestrangela.css);
-@import url(http://shasso.github.io/sasfonts/earlyaccess/Assyrian-Estrangela-Dan-Regular.css);
+@import url(http://shasso.github.io/sasfonts/earlyaccess/AssyrianEstrangela.css);
 @import url(http://shasso.github.io/sasfonts/earlyaccess/Assyrian-Dan-Regular.css);
 
 body {
@@ -25,7 +25,7 @@ body {
 nt-size: 2em;
 }
 .EST {
- font-family: 'Assyrian Estrangela', 'Noto Sans Syriac Estrangela';
+ font-family: 'AssyrianEstrangela', 'Noto Sans Syriac Estrangela';
  direction: rtl;
  font-size: 2em;
 }
