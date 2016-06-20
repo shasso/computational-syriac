@@ -11,7 +11,7 @@ body {
   background-color: white;
   font-family: 'Oxygen', sans-serif; 
   text-align:justify;	
-  text-justify:kashida;	/* for some reason, this does not work */
+  text-justify: distribute;	
   margin-left: 15px;
   margin-right: 15px;
 
