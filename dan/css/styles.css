@@ -7,8 +7,8 @@
 
 body {
   font-size: 16px;
-  color: white;
-  background-color: #f0e465;
+  color: black;
+  background-color: white;
   font-family: 'Oxygen', sans-serif; 
   text-align:justify;	
   text-justify:kashida;	/* for some reason, this does not work */
