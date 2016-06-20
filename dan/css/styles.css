@@ -17,16 +17,16 @@ body {
 
 }
 /* minimal 'font-family' CSS property required */
-.ES, .EST {
+.ES {
  font-family: 'Assyrian-Dan-Regular', 'Noto Sans Syriac Estrangela';
  direction: rtl;
  font-size: 2em;
 }
-/* .EST {
+.estrangela {
  font-family: 'Assyrian Estrangela', 'Noto Sans Syriac Estrangela';
  direction: rtl;
  font-size: 2em;
-} */
+}
 .rtl {
   text-align: right;
   color: black;
