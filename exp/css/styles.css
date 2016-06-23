@@ -55,8 +55,11 @@ body {
 	color: black;
 }
 .l2r {
-	text-align: left;
-	color: black;
+  font-family: Arial;
+  font-size: 0.5em;
+  font-style: italic;
+  text-align: left;
+  color: black;
 }
 .row p {
 	border: 2px solid orange;
