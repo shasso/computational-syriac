@@ -40,13 +40,18 @@ body {
 }
 
 .GS1 {
-	font-family: 'Noto Sans Syriac Eastern','Noto Sans Syriac Estrangela';
+	font-family: 'Noto Sans Syriac Eastern', 'Noto Sans Syriac Estrangela';
 	direction: rtl;
 	font-size: 2em;
 }
 
 .GS2 {
-	font-family: 'Noto Sans Syriac Western','Noto Sans Syriac Estrangela';
+	font-family: 'Noto Sans Syriac Estrangela';
+	direction: rtl;
+	font-size: 2em;
+}
+.GS3 {
+	font-family: 'Noto Sans Syriac Western', 'Noto Sans Syriac Estrangela';
 	direction: rtl;
 	font-size: 2em;
 }
@@ -55,15 +60,17 @@ body {
 	color: black;
 }
 .l2r {
-  font-family: Arial;
-  font-size: 0.5em;
-  font-style: italic;
-  text-align: left;
-  color: black;
+	font-family: Arial;
+	font-size: 0.5em;
+	font-style: italic;
+	text-align: left;
+	color: black;
 }
-.row p {
+.row {
 	border: 2px solid orange;
 	padding: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
 }
 
 .PS {
