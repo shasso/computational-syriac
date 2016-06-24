@@ -83,3 +83,9 @@ body {
 	font-size: 3em;
 	color: red;
 }
+.title_instructions {
+  font-size: 1.5em;
+  color: blue;
+  text-align: right;
+  margin-right: 50%;
+}
