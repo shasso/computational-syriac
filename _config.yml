@@ -1,0 +1,8 @@
+title: Computational-Syriac
+description: A repository for testing web technologies and text processing for Syriac language
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
